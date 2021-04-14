@@ -1,0 +1,63 @@
+html,
+body {
+    height: 100%;
+}
+
+nav {
+    background-color: #110066;
+}
+
+.footer {
+    background-color: #f5f5f5;
+}
+
+.header {
+    background-color: #76B1DB;
+}
+
+
+.footer>.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.boldIt {
+    font-weight: bolder;
+    color: coral;
+}
+
+.fizz {
+    color: #110066;
+    font-family: 'Merienda',
+        cursive;
+}
+
+
+.buzz {
+    color: #110066;
+    font-family: 'Merienda',
+        cursive;
+}
+
+
+.fizzbuzz {
+    color: #110066;
+    font-family: 'Merienda',
+        cursive;
+}
+
+
+#result-bar {
+    background-color: #90CBFB;
+}
+
+#submitBtn {
+    background-color: #919191;
+    border-radius: #919191;
+    color: #FFFFFF;
+}
+
+#fizzbuzz-title {
+    font-family: 'Merienda',
+        cursive;
+}
